@@ -50,3 +50,23 @@ body {
 .inner-form{
   background-color: #585F73;
 }
+
+.footer{
+  background-color: #2BB3DD;
+}
+
+.circle-f{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: white;
+  display: inline-block;
+  text-align: center;
+  font-size: 40px;
+  color:	#4267B2 ;
+  margin-right: 10px;
+  margin-bottom: 20px;
+}
+.circle-f:hover{
+  background-color: gray;
+}
