@@ -26,6 +26,9 @@ body {
 .bg-redtype-color{
   background-color: #FB857F;
 }
+.bg-redtype-color:hover{
+  color: black!important;
+}
 
 .circle{
   background-color: #FB857F;
@@ -43,4 +46,7 @@ body {
 
 .form-container{
   background-color: #474C5E;
+}
+.inner-form{
+  background-color: #585F73;
 }
